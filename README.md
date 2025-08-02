@@ -22,47 +22,12 @@ filterable-gallery/
 ├── index.html        # Main HTML file (UI structure)
 ├── style.css         # CSS file (styling and layout)
 └── script.js         # JavaScript file (interactivity / filtering logic)
-```
-
----
-
-## 💻 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/filterable-gallery.git
-   ```
-
-2. **Open the project folder**
-   ```bash
-   cd filterable-gallery
-   ```
-
-3. **Open `index.html` in your browser**
-   - Just double-click `index.html`, or
-   - Use Live Server extension if you're using VS Code
-
----
-
-## 🔗 Live Demo
-
-> _Add your deployed link here if hosted (e.g., GitHub Pages, Netlify)_
-
----
 
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
+- JavaScript 
 
 ## 🙌 Acknowledgments
 
