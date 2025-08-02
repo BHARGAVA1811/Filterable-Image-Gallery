@@ -10,7 +10,6 @@ A simple and responsive filterable image gallery built using **HTML**, **CSS**, 
 - 🖱️ Click to filter images by category
 - 📱 Fully responsive for mobile and desktop
 - 🎨 Clean and modern UI with CSS transitions
-- ⚡ Lightweight – no external libraries
 
 ---
 
@@ -23,7 +22,7 @@ filterable-gallery/
 ├── style.css         # CSS file (styling and layout)
 └── script.js         # JavaScript file (interactivity / filtering logic)
 
-## 🛠️ Tech Stack
+##🛠️ Tech Stack
 
 - HTML5
 - CSS3
